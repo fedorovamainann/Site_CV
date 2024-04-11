@@ -1,2 +1,2 @@
-# Site_CV
-new_Сайт-визитка на языке HTML и CSS
+# My_CV
+Сайт-визитка на языке HTML и CSS, а также JavaScript
